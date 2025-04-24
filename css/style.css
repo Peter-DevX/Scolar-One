@@ -24,6 +24,7 @@
 
 html {
     scroll-behavior: smooth;
+    overflow-x: none;
 }
 
 body {
@@ -706,11 +707,13 @@ span.current {
     padding: 40px 0px;
 }
 
+
+
 .choose_taital{
     width: 100%;
     float: left;
     font-size: 40px;
-    color: #fefefd;
+    color:#363636 ;
     text-transform: uppercase;
     font-weight: bold;
 }
