@@ -24,7 +24,7 @@
 
 html {
     scroll-behavior: smooth;
-    overflow-x: none;
+    overflow-x: hidden;
 }
 
 body {
@@ -1083,6 +1083,8 @@ textarea#comment.massage-bt::placeholder {
 
 
 @media screen and (max-width: 767px) {
+   
+
     .update_mail {
         width: 400px;
         height: 55px;
